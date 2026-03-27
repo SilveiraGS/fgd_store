@@ -3,7 +3,7 @@ game 'gta5'
 
 name 'fgd_store'
 description 'Tablet NUI com suporte fgd_lib'
-version '1.0.1'
+version '1.0.0'
 lua54 'yes'
 
 dependencies {
